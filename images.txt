@@ -7,4 +7,4 @@ xhofe/alist:latest
 rabbitmq:3.12.0
 redis:7.0.10
 minio/minio
-nacos:2.2.2
+nacos/nacos-server:v2.3.2
