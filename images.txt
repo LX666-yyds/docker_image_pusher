@@ -8,3 +8,4 @@ rabbitmq:3.12.0
 redis:7.0.10
 minio/minio
 nacos/nacos-server:v2.2.2
+mongo:7.0.0
